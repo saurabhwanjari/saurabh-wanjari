@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhwanjari&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhwanjari" /> </p>
 
-- 🌱 I’m currently learning **C++,Python,Machine learning**
+- 🌱 I’m currently learning **C++,Python,Machine learning,java**
 
 - 📫 How to reach me **saurabhwanjarisw@gmail.com**
 
